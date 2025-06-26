@@ -1,0 +1,8 @@
+# Placeholder for requirements.txt
+torch
+transformers
+Pillow
+opencv-python
+streamlit
+openai-whisper
+moviepy
