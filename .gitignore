@@ -3,6 +3,10 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
-.DS_Store
+*.log
 *.sqlite3
+.DS_Store
+*.mp4
+frames/
+logs/
+sample_videos/
